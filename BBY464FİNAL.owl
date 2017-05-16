@@ -1,0 +1,757 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://webprotege.stanford.edu/project/BaxwEElNk3JuNjBS6ZMyBA#"
+     xml:base="http://webprotege.stanford.edu/project/BaxwEElNk3JuNjBS6ZMyBA"
+     xmlns:webprotege="http://webprotege.stanford.edu/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://webprotege.stanford.edu/project/BaxwEElNk3JuNjBS6ZMyBA"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2004/02/skos/core#comment -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#comment"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R6ED8eDoXomyS7VpmrZ114 -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R6ED8eDoXomyS7VpmrZ114">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>mutlu sonla biter</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7WOdJsD0ZaJsBO6VKvY1CE -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R7WOdJsD0ZaJsBO6VKvY1CE">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">güçlüoyuncukadrosuvar</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7ku9KNdD0gksa8CsykQISt -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R7ku9KNdD0gksa8CsykQISt">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>Türkçe dublaj var</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9wUNrIoCsfhemZmE6NAt6D -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/R9wUNrIoCsfhemZmE6NAt6D">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>yabancıfilm</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBMBVEJ5OgnhgT8Oec6UPUA -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBMBVEJ5OgnhgT8Oec6UPUA">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>yerlifilm</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBoSGrDHf4j4JglHRghv5mn -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RBoSGrDHf4j4JglHRghv5mn">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ödülalmış</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCPY7KfWMGXnMzzF9xzU7aG -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RCPY7KfWMGXnMzzF9xzU7aG">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">senaryosukuvvetli</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCexB5hcIckzf1wQUQNsmiG -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RCexB5hcIckzf1wQUQNsmiG">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>yönetmen</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RjkcmmdbbC1rM1m6cayvOy -->
+
+    <owl:ObjectProperty rdf:about="http://webprotege.stanford.edu/RjkcmmdbbC1rM1m6cayvOy">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:label>mutsuz sonla biter</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R96LnC70L2OU4bpDBQkei20 -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R96LnC70L2OU4bpDBQkei20">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>aktör</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9q4ciijPCcFGCibgwxrcfC -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9q4ciijPCcFGCibgwxrcfC">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">filmin</rdfs:comment>
+        <rdfs:label>dil</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9sapeWPNV4MVHzqAN7lVTm -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/R9sapeWPNV4MVHzqAN7lVTm">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">filmin orijinal adı</rdfs:comment>
+        <rdfs:label xml:lang="tr">film adı</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCNO0cVseBJMAizPq0gRFOd -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RCNO0cVseBJMAizPq0gRFOd">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yapım yılı</rdfs:label>
+        <skos:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Filmin yayınlanma tarihidir.</skos:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDBA487diENb7fwrJK4kIwQ -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RDBA487diENb7fwrJK4kIwQ">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>süre</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDtjw6Xd0WwGBfavzEWDZlB -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RDtjw6Xd0WwGBfavzEWDZlB">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>konu</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RHFAiu9HgdgkoS41l2vD9y -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RHFAiu9HgdgkoS41l2vD9y">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>aktris</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RL10D0gzulkPnrONB0f0oc -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RL10D0gzulkPnrONB0f0oc">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>imbd</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RatAI2irHGq641QNoRD96U -->
+
+    <owl:DatatypeProperty rdf:about="http://webprotege.stanford.edu/RatAI2irHGq641QNoRD96U">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:label>ülke</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R78OPO9jCBJ3u3o5dQOcPHN -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R78OPO9jCBJ3u3o5dQOcPHN">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCC04zvJx7ZZoKsgWu0bcl"/>
+        <rdfs:label>biyografi</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7JdDKvxz1hNp3PblH0d9qW -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R7JdDKvxz1hNp3PblH0d9qW">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCC04zvJx7ZZoKsgWu0bcl"/>
+        <rdfs:label>müzikal</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9YYcFfkbeACbyDV96Ennqb -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/R9YYcFfkbeACbyDV96Ennqb">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCC04zvJx7ZZoKsgWu0bcl"/>
+        <rdfs:label>korku</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBUiWRiB3SJ4ty5BxpR1j4U -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBUiWRiB3SJ4ty5BxpR1j4U">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCC04zvJx7ZZoKsgWu0bcl"/>
+        <rdfs:label>romantik</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBl0Z5o2uurSr5MA6jO6wfR -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RBl0Z5o2uurSr5MA6jO6wfR">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCC04zvJx7ZZoKsgWu0bcl"/>
+        <rdfs:label>bilimkurgu</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCC04zvJx7ZZoKsgWu0bcl -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCC04zvJx7ZZoKsgWu0bcl">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label>film</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCpJsHrb5UNZon1E6HEwZpX -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RCpJsHrb5UNZon1E6HEwZpX">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCC04zvJx7ZZoKsgWu0bcl"/>
+        <rdfs:label>fantastic</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDyO9BypHYEl0LOzho1ClM4 -->
+
+    <owl:Class rdf:about="http://webprotege.stanford.edu/RDyO9BypHYEl0LOzho1ClM4">
+        <rdfs:subClassOf rdf:resource="http://webprotege.stanford.edu/RCC04zvJx7ZZoKsgWu0bcl"/>
+        <rdfs:label>dram</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7Oowxn4rk6oA7bQYc2GK1j -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7Oowxn4rk6oA7bQYc2GK1j">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBl0Z5o2uurSr5MA6jO6wfR"/>
+        <webprotege:R6ED8eDoXomyS7VpmrZ114 rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7ku9KNdD0gksa8CsykQISt rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R9wUNrIoCsfhemZmE6NAt6D rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RBoSGrDHf4j4JglHRghv5mn rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/R8lOklWVqO0sNZWxRbiAq9k"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matthew McConaughey</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R9sapeWPNV4MVHzqAN7lVTm xml:lang="en">Interstellar</webprotege:R9sapeWPNV4MVHzqAN7lVTm>
+        <webprotege:RCNO0cVseBJMAizPq0gRFOd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2014</webprotege:RCNO0cVseBJMAizPq0gRFOd>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 saat 49 dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RDtjw6Xd0WwGBfavzEWDZlB xml:lang="tr">Yakın bir gelecekte, tahıl ürünlerinin ölmesine neden olan bir küf yüzünden medeniyet gerileyerek tarım toplumu seviyesine düşmüştür. Eski bir NASA pilotu olan Cooper ailesi ile birlikte bir tarla işletmektedir. Cooper&apos;ın 10 yaşında olan kızı Murph odasında bir hayaletin kendisi ile iletişim kurduğunu düşünmektedir. Sonrasında Murph&apos;un &quot;hayalet&quot;inin gönderdiği bilinmeyen istihbaratın yerçekimsel dalga kullanarak kodlandığını keşfederler, tozlar üstünde kalan ikili sistemde yazılı koordinat Cooper ve kızını NASA&apos;nın gizli bir üssündeki Profesör John Brand&apos;e yönlendirir. Profesör Brand&apos;in &quot;Onlar&quot; dediği, uzaylı bir zekanın Satürn yakınında bir solucan deliğini açtığını, bariz bir şekilde başka bir galaksiye geçerek yaşanabilir yeni bir gezegen bulmamız için bir umut verdiklerini söyler. NASA&apos;nın “Lazarus görevleri” dev kara delik olan Gargantua yörüngesinde üç adet potansiyel yaşanabilir gezegen tanımlamıştır; Miller, Edmund ve Mann gezegenler isimlerini keşif için giden astronotlardan almıştır. Cooper&apos;ın pilotluğunu yaptığı Endurance uzay aracı ile beraberindeki astronotların görevi bu gezegenlerdeki uzay istasyonlarından gelen veriye dayanarak hangi gezegenin yaşanabilir olduğunu araştırmaktır. Aslında her şey bir döngüden ibarettir.</webprotege:RDtjw6Xd0WwGBfavzEWDZlB>
+        <webprotege:RHFAiu9HgdgkoS41l2vD9y rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anne Hathaway</webprotege:RHFAiu9HgdgkoS41l2vD9y>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8.6</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label xml:lang="tr">Yıldızlararası</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R7lhe52Ht2ZYxkfXT9O4aFF -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R7lhe52Ht2ZYxkfXT9O4aFF">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7JdDKvxz1hNp3PblH0d9qW"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBUiWRiB3SJ4ty5BxpR1j4U"/>
+        <webprotege:R6ED8eDoXomyS7VpmrZ114 rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7ku9KNdD0gksa8CsykQISt rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R9wUNrIoCsfhemZmE6NAt6D rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RBoSGrDHf4j4JglHRghv5mn rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RDhQwV17sTVgSvFXkaHx3A"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ryan Gosling</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R9q4ciijPCcFGCibgwxrcfC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ingilizce</webprotege:R9q4ciijPCcFGCibgwxrcfC>
+        <webprotege:R9sapeWPNV4MVHzqAN7lVTm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LaLa Land</webprotege:R9sapeWPNV4MVHzqAN7lVTm>
+        <webprotege:RCNO0cVseBJMAizPq0gRFOd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2016</webprotege:RCNO0cVseBJMAizPq0gRFOd>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 saat 8 dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RDtjw6Xd0WwGBfavzEWDZlB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hayatlarında yön bulmaya çalışan iki tutkulu insan Sebastian ve Mia&apos;nın yolları, Los Angeles&apos;ta trafiğin sıkışık olduğu bir gün kesişir. Her ikisi de sanat tutkunu olan bu iki insan, hayallerini gerçekleştirme yolunda düşe kalka ilerlemektedir. 
+
+Sebastian gelenekseksel jazzın kolonlardan yükseldiği bir kulüp açma hayalinde, Mia ise kafesinde çalıştığı film platosunda kendine uygun tüm oyunculuk seçmelerine katılarak bir rol kapma telaşındadır. Bu iki insanın kalpleri birbiri için atmaya başladığında ortaya çıkan manzarayı hayat şartları bozacak, onları yavaş yavaş hayallerinden uzaklaştırmaya başlayacaktır. 
+Oscar ödüllü Whiplash’in yazarı Damien Chazelle’in yazıp yönettiği bu romantik müzikal, modern zamana adanmış bir Hollywood masalı.</webprotege:RDtjw6Xd0WwGBfavzEWDZlB>
+        <webprotege:RHFAiu9HgdgkoS41l2vD9y rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emma Stone</webprotege:RHFAiu9HgdgkoS41l2vD9y>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8.3</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label>Aşıklar Şehri</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R80tEmN2yGf3o6un6AqMKfK -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R80tEmN2yGf3o6un6AqMKfK">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9YYcFfkbeACbyDV96Ennqb"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7ku9KNdD0gksa8CsykQISt rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R9wUNrIoCsfhemZmE6NAt6D rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RBoSGrDHf4j4JglHRghv5mn rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RBQniklbw5yroQUdUrzOtfW"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Anthony Hopkins</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R9q4ciijPCcFGCibgwxrcfC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ingilizce</webprotege:R9q4ciijPCcFGCibgwxrcfC>
+        <webprotege:R9sapeWPNV4MVHzqAN7lVTm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Silence of the Lambs</webprotege:R9sapeWPNV4MVHzqAN7lVTm>
+        <webprotege:RCNO0cVseBJMAizPq0gRFOd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1991</webprotege:RCNO0cVseBJMAizPq0gRFOd>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">118 dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RDtjw6Xd0WwGBfavzEWDZlB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thomas J. Harris&apos;in romanının bu nabızları zorlayan uyarlamasında, FBI&apos;daki eğitimi devam eden Clarice Starling (Jodie Foster) yüksek güvenlikli bir tımarhaneye girerek bir psikiyatr iken yamyamlık yapan bir kitle katiline dönüşen Hannibal Lecter&apos;in (Anthony Hopkins) hastalıklı zihninin derinliklerine inmeye çalışmaktadır. Starling&apos;in bir seri katili yakalamak için ipuçlarına ihtiyacı vardır. Ancak ne yazık ki, Lecter ile yaşadığı Faustiyen ilişki sonunda onun kaçışına sebep olur ve artık iki ayrı seri katil karanlıklarda serbest dolaşır.</webprotege:RDtjw6Xd0WwGBfavzEWDZlB>
+        <webprotege:RHFAiu9HgdgkoS41l2vD9y rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jodie Foster</webprotege:RHFAiu9HgdgkoS41l2vD9y>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8.6</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label>Kuzuların Sessizliği</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R85zglqIl8oA7qCH6jVZ6zW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R85zglqIl8oA7qCH6jVZ6zW">
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RD25JQBipSpWL5yHRHGxldH"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Amerikalı film yönetmeni ve yazarıdır</rdfs:comment>
+        <rdfs:label>	Gore Verbinski</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8Uq9Or5kox7xBWBkzfOCQc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8Uq9Or5kox7xBWBkzfOCQc">
+        <rdfs:label>false</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8YOkSakFrgORFx9rg0edU2 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8YOkSakFrgORFx9rg0edU2">
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/R8bNsiU6SMLkbXiZLWsyCOL"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/ROadPYsh8Cfj0xrGRVdyoq"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sıra dışı ve tuhaf tarzı ile bilinen Tim Burton&apos;un özellikle stop-motion animasyon tekniği ile çekilen filmlerinde karakterlerinin abartılı olmalarına rağmen insani değerlerini kaybetmemeleri dikkat çekmektedir. Sıra dışı olan filmlerinde Gotik betimlemeler kullanır.</rdfs:comment>
+        <rdfs:label>Tim Burton</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8bNsiU6SMLkbXiZLWsyCOL -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8bNsiU6SMLkbXiZLWsyCOL">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R7JdDKvxz1hNp3PblH0d9qW"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBUiWRiB3SJ4ty5BxpR1j4U"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCpJsHrb5UNZon1E6HEwZpX"/>
+        <webprotege:R6ED8eDoXomyS7VpmrZ114 rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7ku9KNdD0gksa8CsykQISt rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R9wUNrIoCsfhemZmE6NAt6D rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/R8YOkSakFrgORFx9rg0edU2"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Johnny Depp</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R9q4ciijPCcFGCibgwxrcfC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ingilizce</webprotege:R9q4ciijPCcFGCibgwxrcfC>
+        <webprotege:R9sapeWPNV4MVHzqAN7lVTm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Corpse Bride</webprotege:R9sapeWPNV4MVHzqAN7lVTm>
+        <webprotege:RCNO0cVseBJMAizPq0gRFOd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2005</webprotege:RCNO0cVseBJMAizPq0gRFOd>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 saat 18 dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RHFAiu9HgdgkoS41l2vD9y rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Helena Bonham Carter</webprotege:RHFAiu9HgdgkoS41l2vD9y>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7.4</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label>Ölü Gelin</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8lOklWVqO0sNZWxRbiAq9k -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8lOklWVqO0sNZWxRbiAq9k">
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <rdfs:label>Morten Tyldum</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R8wUofQMpRc5fudOayoOJLh -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R8wUofQMpRc5fudOayoOJLh">
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RBgw8xdjE2NpeVgRhADa8R3"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türk yönetmen ve senaryo yazarı.</rdfs:comment>
+        <rdfs:label>Çağan Irmak</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/R9UzZxQUMzgm6Ti596bgHyB -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/R9UzZxQUMzgm6Ti596bgHyB">
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <rdfs:label>Matthew McConaughey</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBHFa9ceqphm8ZDy7gkt1En -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBHFa9ceqphm8ZDy7gkt1En">
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RC4R7TwdfzaRZaBDRRLtx2e"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kürt kökenli Türk oyuncu yazar ve yönetmen</rdfs:comment>
+        <rdfs:label>Yılmaz Erdoğan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBQniklbw5yroQUdUrzOtfW -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBQniklbw5yroQUdUrzOtfW">
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/R80tEmN2yGf3o6un6AqMKfK"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">En İyi Yönetmen Akademi Ödülü sahibi Amerikalı film yönetmeni, yapımcı ve senarist</rdfs:comment>
+        <rdfs:label>	Jonathan Demme</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBR0Z3G7PanPVuRQuMr92hJ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBR0Z3G7PanPVuRQuMr92hJ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBl0Z5o2uurSr5MA6jO6wfR"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7ku9KNdD0gksa8CsykQISt rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R9wUNrIoCsfhemZmE6NAt6D rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RBoSGrDHf4j4JglHRghv5mn rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RDgXUfiW68lYOYlRZ2vNfhP"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Keanu Charles Reeves</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Laurence Fishburne</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:RCNO0cVseBJMAizPq0gRFOd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1999</webprotege:RCNO0cVseBJMAizPq0gRFOd>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">136 dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RDtjw6Xd0WwGBfavzEWDZlB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Saygın bir yazılım şirketinde çalışan Thomas Anderson (Keanu Reeves), gecelerini &quot;Neo&quot; adı altında program kırarak ve Matrix&apos;i araştırarak geçirir. Esrarengiz şekilde Trinity ve Morpheus ile tanışan Neo, yaşadığı dünyanın aslında beyninde gerçekleşen bir simulasyon olduğu gerçeğini öğrendikten sonra oradan kurtarılır ve Morpheus&apos;un önderliğindeki ekibe katılır. Neo gerçek dünyada ilk nefesini aldıktan sonra simulasyona tekrar girerek Matrix&apos;in ne olduğunu kavrayacak ve kurtarılma nedenini öğrenerek gelişen olaylar çerçevesinde yeni kimliğini tanımaya çalışacaktır.</webprotege:RDtjw6Xd0WwGBfavzEWDZlB>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8.7</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label>Matrix</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBbdWpLdRwMnFRBvEelSUBc -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBbdWpLdRwMnFRBvEelSUBc">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCpJsHrb5UNZon1E6HEwZpX"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7ku9KNdD0gksa8CsykQISt rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R9wUNrIoCsfhemZmE6NAt6D rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RBoSGrDHf4j4JglHRghv5mn rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RCbZqt6JjpszorBn0X0IpG7"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sam Worthington</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R9q4ciijPCcFGCibgwxrcfC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ingilizce</webprotege:R9q4ciijPCcFGCibgwxrcfC>
+        <webprotege:R9sapeWPNV4MVHzqAN7lVTm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Avatar</webprotege:R9sapeWPNV4MVHzqAN7lVTm>
+        <webprotege:RCNO0cVseBJMAizPq0gRFOd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2009</webprotege:RCNO0cVseBJMAizPq0gRFOd>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 Saat 42 Dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RDtjw6Xd0WwGBfavzEWDZlB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bizleri hayal gücümüzün ötesinde muhteşem bir dünyaya taşıyacak olan film Na’vi adlı yok olmak üzere olan bir halkın yaşadığı Pandora adlı gezegende geçiyor</webprotege:RDtjw6Xd0WwGBfavzEWDZlB>
+        <webprotege:RHFAiu9HgdgkoS41l2vD9y rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zoe Saldana</webprotege:RHFAiu9HgdgkoS41l2vD9y>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7.8</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label>Avatar</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RBgw8xdjE2NpeVgRhADa8R3 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RBgw8xdjE2NpeVgRhADa8R3">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBUiWRiB3SJ4ty5BxpR1j4U"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RBMBVEJ5OgnhgT8Oec6UPUA rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/R8wUofQMpRc5fudOayoOJLh"/>
+        <webprotege:RjkcmmdbbC1rM1m6cayvOy rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cemal Hünal</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:RCNO0cVseBJMAizPq0gRFOd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2008</webprotege:RCNO0cVseBJMAizPq0gRFOd>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1 saat 55 dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RDtjw6Xd0WwGBfavzEWDZlB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alper, gurme denilecek seviyede yemek kültürü olan kendi restoranının sahibi bir aşçıdır. Lüks yaşamayı seven, işinde başarılı ama özel yaşantısını her gün farklı kadınlarla geçirerek düzene koyamamış, yaşamını; yaptığı yemekler, zengin kadınlar çevresinde yaşayan birisidir.
+
+Ada, taksim&apos;de çocuk kostümleri tasarlayıp dikmekte olan, Alper’in modern hayatının aksine çok mütevazı, hayatta fazla inişleri çıkışları olmayan genç bir kızdır. Bir gün eski bir kitabı bulabilmek için Beyoğlu’nda dolaşırken Alper ile Ada aynı kitapçıya girerler ve aşk ile çelişkili yaşam onlar için başlamış olur.</webprotege:RDtjw6Xd0WwGBfavzEWDZlB>
+        <webprotege:RHFAiu9HgdgkoS41l2vD9y rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Melis Birkan</webprotege:RHFAiu9HgdgkoS41l2vD9y>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6.8</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkiye</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label xml:lang="tr">Issız Adam</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC0qpSjhyBjhVlBL0HUITfg -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC0qpSjhyBjhVlBL0HUITfg">
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RhPWFnPNigCiMsQ5irGN86"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İngiliz-Amerikan film yönetmeni, senarist, yapımcı, görüntü yönetmeni ve editör.</rdfs:comment>
+        <rdfs:label>Christopher Nolan</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RC4R7TwdfzaRZaBDRRLtx2e -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RC4R7TwdfzaRZaBDRRLtx2e">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78OPO9jCBJ3u3o5dQOcPHN"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RDyO9BypHYEl0LOzho1ClM4"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R9wUNrIoCsfhemZmE6NAt6D rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RBoSGrDHf4j4JglHRghv5mn rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RBHFa9ceqphm8ZDy7gkt1En"/>
+        <webprotege:RjkcmmdbbC1rM1m6cayvOy rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kıvanç Tatlıtuğ</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R9q4ciijPCcFGCibgwxrcfC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkçe</webprotege:R9q4ciijPCcFGCibgwxrcfC>
+        <webprotege:RCNO0cVseBJMAizPq0gRFOd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2013</webprotege:RCNO0cVseBJMAizPq0gRFOd>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 saat 19 Dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RDtjw6Xd0WwGBfavzEWDZlB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Film Zonguldak&apos;ta, 1941 yılında başlar. İki genç şair Rüştü Onur (Mert Fırat) ve Muzaffer Tayyip Uslu (Kıvanç Tatlıtuğ), yeni yeni modernleşen bu madenci kentinde memuriyet hayatlarını sürdürürken, bir yandan da sanatla, edebiyatla ve en çok da şiirle iç içe yaşamaktadırlar. Ayakları üzerine yeni kalkan genç Cumhuriyet, bir yandan modernleşme çabasındayken, aynı yıllarda Avrupa&apos;da da II.Dünya Savaşı yaşanmaktadır. Şairliğe ve sanata bakışın henüz olgunlaşmadığı toplumda şiir ile uğraşan bu iki veremli genç, toplumun her kesimine şiiri sevdirmeye çalışmaktadır. Belediye Başkanı&apos;nın kızı Suzan Özsöy (Belçim Bilgin)&apos;un Zonguldak&apos;a geri gelmesiyle Rüştü ve Muzaffer&apos;in şiire olan inancı daha da artar. Muzaffer, Suzan&apos;a aşık olur. Henüz lise öğrencisi olan Suzan, ailesinin istememesine rağmen iki gençle yakın arkadaş olur. Fakat 1940&apos;lı yılların vebası olan verem, iki genç insanın da sağlığını git gide tehdit etmektedir. Rüştü ve Muzaffer kendi geleceklerini kurabilme çabası içerisine girerler.</webprotege:RDtjw6Xd0WwGBfavzEWDZlB>
+        <webprotege:RHFAiu9HgdgkoS41l2vD9y rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Belçim Bilgin</webprotege:RHFAiu9HgdgkoS41l2vD9y>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7.4</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Türkiye</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label>Kelebeğin Rüyası</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf">
+        <rdfs:label>true</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCbZqt6JjpszorBn0X0IpG7 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCbZqt6JjpszorBn0X0IpG7">
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RBbdWpLdRwMnFRBvEelSUBc"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">yönetmenlik yanında senarist ve prodüktördür. Titanik, Terminator, Aliens ve Avatar gibi ödüllü Hollywood filmleri bulunur.</rdfs:comment>
+        <rdfs:label>	James Cameron</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RCz8leW770cgCh1WjgO9kHv -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RCz8leW770cgCh1WjgO9kHv">
+        <rdfs:label>Ron Howard</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RD25JQBipSpWL5yHRHGxldH -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RD25JQBipSpWL5yHRHGxldH">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R9YYcFfkbeACbyDV96Ennqb"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7ku9KNdD0gksa8CsykQISt rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R9wUNrIoCsfhemZmE6NAt6D rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RBoSGrDHf4j4JglHRghv5mn rdf:resource="http://webprotege.stanford.edu/R8Uq9Or5kox7xBWBkzfOCQc"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/R85zglqIl8oA7qCH6jVZ6zW"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brian Cox</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R9q4ciijPCcFGCibgwxrcfC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ingilizce</webprotege:R9q4ciijPCcFGCibgwxrcfC>
+        <webprotege:R9sapeWPNV4MVHzqAN7lVTm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The Ring</webprotege:R9sapeWPNV4MVHzqAN7lVTm>
+        <webprotege:RCNO0cVseBJMAizPq0gRFOd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2002</webprotege:RCNO0cVseBJMAizPq0gRFOd>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">115 dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RHFAiu9HgdgkoS41l2vD9y rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Naomi Watts</webprotege:RHFAiu9HgdgkoS41l2vD9y>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8.1</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label>Halka</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDRjZIvxTYGsjjLtL2t7cjZ -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDRjZIvxTYGsjjLtL2t7cjZ">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/R78OPO9jCBJ3u3o5dQOcPHN"/>
+        <webprotege:R6ED8eDoXomyS7VpmrZ114 rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7ku9KNdD0gksa8CsykQISt rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R9wUNrIoCsfhemZmE6NAt6D rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RBoSGrDHf4j4JglHRghv5mn rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RCz8leW770cgCh1WjgO9kHv"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Russell Crowe</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R9q4ciijPCcFGCibgwxrcfC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ingilizce</webprotege:R9q4ciijPCcFGCibgwxrcfC>
+        <webprotege:R9sapeWPNV4MVHzqAN7lVTm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A Beautiful Mind</webprotege:R9sapeWPNV4MVHzqAN7lVTm>
+        <webprotege:RCNO0cVseBJMAizPq0gRFOd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2001</webprotege:RCNO0cVseBJMAizPq0gRFOd>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 saat 20 dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RDtjw6Xd0WwGBfavzEWDZlB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nash, öğrencilik yıllarından itibaren hayaller görmeye başlar. Mezuniyetinden sonra, zamanla paranoid şizofreni olur; fakat hasta olduğunun farkına varamaz. Bir konferans sırasında aniden bir psikiyatristin karşısına çıkması ile olaylar zinciri değişir. Hastaneye yatar ve bu nedenle akademik çalışmalarından uzaklaşır.
+
+Hastalığı kendi çocuğuna zarar vermesine neden olacak noktaya gelince eşi yeniden hastaneye gitmesi gerektiğini düşünür. Uzun süre hasta olduğunu kabul edemese de sürekli gördüğü kız çocuğunun hiç büyümediğini fark eder. Bu durum onun hastalığını kabul etmesini sağlar. Nash, yaşadığı hayali gerçekleri görmezden gelerek onlarla yaşamaya çalışacaktır. Gördüğü tedaviler etkili olmasa da eşi ve eski iş arkadaşlarının desteğiyle her şeye yeniden başlar. Kendi akıl hastalığını yine kendi aklı ile dizginleyerek akademik çalışmalarına yeniden hız verir. Tekrar üniversitede ders vermeye başlar. Sonunda gösterdiği sıradışı mücadeleyle şizofreni ile birlikte yaşamına devam eder. Ve tarih bu müthiş dehaya, akıl hastalığını yine aklıyla yenerek hayatının geri kalanını bilime adamasından ve hastalığının başlamasından evvel yaptığı buluşlardan dolayı Nobel Ekonomi Ödülünü armağan eder.</webprotege:RDtjw6Xd0WwGBfavzEWDZlB>
+        <webprotege:RHFAiu9HgdgkoS41l2vD9y rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jennifer Connelly</webprotege:RHFAiu9HgdgkoS41l2vD9y>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8.6</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label>Akıl Oyunları</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDgXUfiW68lYOYlRZ2vNfhP -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDgXUfiW68lYOYlRZ2vNfhP">
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RBR0Z3G7PanPVuRQuMr92hJ"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matrix filminin senarist ve yönetmenliğini yapan kardeşlerdir.</rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Larry ve Andy Wachowski</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RDhQwV17sTVgSvFXkaHx3A -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RDhQwV17sTVgSvFXkaHx3A">
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/R7lhe52Ht2ZYxkfXT9O4aFF"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD&apos;li film yönetmeni ve senarist</rdfs:comment>
+        <rdfs:label>	Damien Chazelle</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/ROadPYsh8Cfj0xrGRVdyoq -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/ROadPYsh8Cfj0xrGRVdyoq">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBUiWRiB3SJ4ty5BxpR1j4U"/>
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RCpJsHrb5UNZon1E6HEwZpX"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7ku9KNdD0gksa8CsykQISt rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R9wUNrIoCsfhemZmE6NAt6D rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/R8YOkSakFrgORFx9rg0edU2"/>
+        <webprotege:RjkcmmdbbC1rM1m6cayvOy rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Johnny Depp</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R9q4ciijPCcFGCibgwxrcfC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">İngilizce</webprotege:R9q4ciijPCcFGCibgwxrcfC>
+        <webprotege:R9sapeWPNV4MVHzqAN7lVTm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edward Scissorhands</webprotege:R9sapeWPNV4MVHzqAN7lVTm>
+        <webprotege:RCNO0cVseBJMAizPq0gRFOd rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1990</webprotege:RCNO0cVseBJMAizPq0gRFOd>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">105 dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RDtjw6Xd0WwGBfavzEWDZlB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Edward&apos;ı tamamlayamadan mucidinin birdenbire ölmesi Edward&apos;ı yarım bırakmıştır. Elleri olmayan Edward elleri yerine keskin metal parçalara sahip olmuştur. Edward&apos;ı vicdanlı bir kadının evine almasıyla başlayan macera.</webprotege:RDtjw6Xd0WwGBfavzEWDZlB>
+        <webprotege:RHFAiu9HgdgkoS41l2vD9y rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Winona Ryder</webprotege:RHFAiu9HgdgkoS41l2vD9y>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8.4</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label>Makas Eller</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RarbAohK2Y2K4QbDPsaK5K -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RarbAohK2Y2K4QbDPsaK5K">
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RDRjZIvxTYGsjjLtL2t7cjZ"/>
+        <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ronald William Howard Oscar sahibi Amerikalı yönetmen, yapımcı ve oyuncu.</rdfs:comment>
+        <rdfs:label>	Ron Howard</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://webprotege.stanford.edu/RhPWFnPNigCiMsQ5irGN86 -->
+
+    <owl:NamedIndividual rdf:about="http://webprotege.stanford.edu/RhPWFnPNigCiMsQ5irGN86">
+        <rdf:type rdf:resource="http://webprotege.stanford.edu/RBl0Z5o2uurSr5MA6jO6wfR"/>
+        <webprotege:R7WOdJsD0ZaJsBO6VKvY1CE rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R7ku9KNdD0gksa8CsykQISt rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:R9wUNrIoCsfhemZmE6NAt6D rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCPY7KfWMGXnMzzF9xzU7aG rdf:resource="http://webprotege.stanford.edu/RCTAFSDfYxFLZnu0nAVmGzf"/>
+        <webprotege:RCexB5hcIckzf1wQUQNsmiG rdf:resource="http://webprotege.stanford.edu/RC0qpSjhyBjhVlBL0HUITfg"/>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Joseph Gordon-Levitt</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R96LnC70L2OU4bpDBQkei20 rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leonardo DiCaprio</webprotege:R96LnC70L2OU4bpDBQkei20>
+        <webprotege:R9q4ciijPCcFGCibgwxrcfC rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ingilizce</webprotege:R9q4ciijPCcFGCibgwxrcfC>
+        <webprotege:R9sapeWPNV4MVHzqAN7lVTm rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inception</webprotege:R9sapeWPNV4MVHzqAN7lVTm>
+        <webprotege:RDBA487diENb7fwrJK4kIwQ rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2 saat 28 dakika</webprotege:RDBA487diENb7fwrJK4kIwQ>
+        <webprotege:RDtjw6Xd0WwGBfavzEWDZlB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dom Cobb (Leonardo DiCaprio) çok yetenekli bir hırsızdır. Uzmanlık alanı, zihnin en savunmasız olduğu rüya görme anında, bilinçaltının derinliklerindeki değerli sırları çekip çıkarmak ve onları çalmaktır. Cobb’un bu ender mahareti, onu kurumsal casusluğun tehlikeli yeni dünyasında aranan bir oyuncu yapmıştır. Ancak, aynı zamanda bu durum onu uluslararası bir kaçak yapmış ve sevdiği her şeye mal olmuştur.
+
+Cobb’a içinde bulunduğu durumdan kurtulmasını sağlayacak bir fırsat sunulur. Ona hayatını geri verebilecek son bir iş; tabi eğer imkânsız “başlangıç”ı tamamlayabilirse. Mükemmel soygun yerine, Cobb ve takımındaki profesyoneller bu sefer tam tersini yapmak zorundadır; görevleri bir fikri çalmak değil onu yerleştirmektir. Eğer başarırlarsa, mükemmel suç bu olacaktır.
+
+Ama ne dikkatle yapılan planlamalar, ne de uzmanlıkları onları, her hareketlerini önceden tahmin ettiği anlaşılan tehlikeli düşmanlarına karşı hazırlıklı kılabilir. Bu, gelişini sadece Cobb’un görebildiği bir düşmandır.
+
+Olay yeri ise zihniniz.</webprotege:RDtjw6Xd0WwGBfavzEWDZlB>
+        <webprotege:RHFAiu9HgdgkoS41l2vD9y rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ellen Page</webprotege:RHFAiu9HgdgkoS41l2vD9y>
+        <webprotege:RL10D0gzulkPnrONB0f0oc rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8.9</webprotege:RL10D0gzulkPnrONB0f0oc>
+        <webprotege:RatAI2irHGq641QNoRD96U rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ABD</webprotege:RatAI2irHGq641QNoRD96U>
+        <rdfs:label>Başlangıç</rdfs:label>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.3.1) https://github.com/owlcs/owlapi -->
+
